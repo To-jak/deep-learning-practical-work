@@ -1,6 +1,13 @@
 # Deep-learning-practical-work
 Compilation of some practical work around deep learning thematic
 
+___
+
+## Learning section: pratical examples with Keras framework
+From the book *Deep learning with Python* from François Chollet
+* Classifying movie reviews
+___
+
 ## 1. Multi-Layer Perceptron for classification, only using numpy
 Full implementation of a two layers Multi-Layer Perceptron (MLP) with 1 hidden layer in Python, for a classification problem.
 * Forward propagation
