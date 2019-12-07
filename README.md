@@ -5,7 +5,8 @@ ___
 
 ## Learning section: pratical examples with Keras framework
 From the book *Deep learning with Python* from François Chollet
-* Classifying movie reviews
+* Classifying movie reviews - binary classification example
+* Classifying newswires - multiclass classification example
 ___
 
 ## 1. Multi-Layer Perceptron for classification, only using numpy
