@@ -22,3 +22,6 @@ Three different implementations:
 * **Model 1**: manually defining the parameters `W1,b1,W2,b2,W3,b3`, writing the forward equations, writting the loss equation, calling the `.backward()` and manually updating the weights using `W1.grad`.
 * **Model 2**: using the `Sequential` class of pytorch
 * **Model 3**: a custom `torch.nn.Module` class.
+
+## 3. Music sequences generation
+Training a RNN language model to generate cello suite sequences.
