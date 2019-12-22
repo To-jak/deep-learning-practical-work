@@ -9,6 +9,7 @@ From the book *Deep learning with Python* from François Chollet
 * Classifying newswires - multiclass classification example
 * Predicting house prices - regression example
 * Quick convnet model for MNIST dataset classification
+* Cats and dogs, from scratch CNN classification example on a small dataset
 ___
 
 ## 1. Multi-Layer Perceptron for classification, only using numpy
