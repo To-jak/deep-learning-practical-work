@@ -27,3 +27,7 @@ Three different implementations:
 
 ## 3. [Music sequences generation](https://github.com/To-jak/Deep-learning-practical-work/blob/master/Generating_music_sequences.ipynb)
 Training a RNN language model to generate cello suite sequences.
+
+## 4. [Deep dream algorithm implementation](https://github.com/To-jak/Deep-learning-practical-work/blob/master/deep_dream_algorithm_example.ipynb)
+Implementation of the weird "deep dream" algorithm, a fun way to vizualize what convolutional networks are learning.
+![](images/deep_dream_example.PNG)
