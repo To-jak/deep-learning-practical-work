@@ -31,3 +31,7 @@ Training a RNN language model to generate cello suite sequences.
 ## 4. [Deep dream algorithm implementation](https://github.com/To-jak/Deep-learning-practical-work/blob/master/deep_dream_algorithm_example.ipynb)
 Implementation of the weird "deep dream" algorithm, a fun way to vizualize what convolutional networks are learning.
 ![](images/deep_dream_example.PNG)
+
+## 5. [Adversarial example for CNN](https://github.com/To-jak/Deep-learning-practical-work/blob/master/adversarial_example_for_cnn.ipynb)
+Implementation of a quick adversarial case for a convolutional network, to fool it and force misclassification using gradient maximisation.
+![](images/adversarial_example.PNG)
