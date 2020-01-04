@@ -1,5 +1,5 @@
 # Deep Learning practical work
-Compilation of some practical work around deep learning thematic
+Compilation of some practical work around deep learning thematic.
 
 ___
 
