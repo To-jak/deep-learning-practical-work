@@ -1,4 +1,4 @@
-# Deep-learning-practical-work
+# Deep Learning practical work
 Compilation of some practical work around deep learning thematic
 
 ___
