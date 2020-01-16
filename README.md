@@ -30,6 +30,7 @@ Three different implementations:
 ## Recurrent neural network
 ### 1. [Music sequences generation](./recurrent_neural_network/Generating_music_sequences.ipynb)
 Training a RNN language model with LSTM layers to generate cello suite sequences. *Work done in Geoffroy Peeters's deep learning course at Telecom Paris.*
+![](images/music_generation.PNG)
 
 ## Convolutional neural network
 *Work inspired after Alasdair Newson's deep learning course at Telecom Paris.*
