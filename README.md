@@ -41,3 +41,7 @@ Implementation of the weird "deep dream" algorithm, a fun way to vizualize what 
 ### 2. [Adversarial example for CNN](./convolutional_neural_network/adversarial_example_for_cnn.ipynb)
 Implementation of a quick adversarial case for a convolutional network, to fool it and force misclassification using gradient maximisation.
 ![](images/adversarial_example.PNG)
+  
+## Introduction to GPU programming
+*Work done during Elisabeth Brunet and Tamy Boubekeur course at Telecom Paris*
+### 1. [Matrix Multiplication with CUDA](./gpu_programming/MatMult.ipynb)  
