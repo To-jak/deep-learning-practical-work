@@ -44,4 +44,6 @@ Implementation of a quick adversarial case for a convolutional network, to fool 
   
 ## Introduction to GPU programming
 *Work done during Elisabeth Brunet and Tamy Boubekeur course at Telecom Paris*
-### 1. [Matrix Multiplication with CUDA](./gpu_programming/MatMult.ipynb)  
+### 1. [Matrix Multiplication with CUDA](./gpu_programming/MatMult.ipynb) 
+### 2. Parallel Reduction with CUDA  
+Implementation of different reduction techniques from [this presentation](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf) of H. Harris.
