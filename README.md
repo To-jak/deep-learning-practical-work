@@ -47,3 +47,4 @@ Implementation of a quick adversarial case for a convolutional network, to fool 
 ### 1. [Matrix Multiplication with CUDA](./gpu_programming/MatMult.ipynb) 
 ### 2. [Parallel Reduction with CUDA](./gpu_programming/reduction.ipynb) 
 Implementation of different reduction techniques from [this presentation](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf) of H. Harris.
+### 3. [Classification and Gradient Descent with cuBLAS](./gpu_programming/cublas_classification_gradient_descent.ipynb) 
